@@ -1,0 +1,17 @@
+.card{
+    border-radius: 38px;
+    background: #4477CE;
+    box-shadow:  16px 16px 32px #345c9f,
+                 -16px -16px 32px #5492fd;
+
+}
+
+.card2{
+    border-radius: 38px;
+    background: #4477CE;
+    box-shadow:  5px 5px 10px #345c9f,
+                 -5px -5px 10px #5492fd;
+
+}
+
+
